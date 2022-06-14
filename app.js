@@ -5,9 +5,9 @@ require("dotenv").config();
 
 //GET ALL CONSTS 
 
-const workerName = document.getElementById('name');
-const workerOccupation = document.getElementById('occupation').value;
-const workerSalary = document.getElementById('salary').value;
+// const workerName = document.getElementById('name').value;
+// const workerOccupation = document.getElementById('occupation').value;
+// const workerSalary = document.getElementById('salary').value;
 
 
 
